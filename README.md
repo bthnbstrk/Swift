@@ -1,6 +1,6 @@
-# Swift
+# Basic A Calculator 
 
- [Hello this is a basic calculator. ]
- 
- 
- [This calculator can be sum,minus,dived,multpily and modular arithmetic.]
+
+This calculator can be basic four maths operations.
+
+
